@@ -51,6 +51,8 @@ THEN the password is either displayed in an alert or written to the page
 * the next part of the code takes the criteria categories the user selected to use and makes them available in a new group/string for the randomizer "for" statement later to choose from
 * once the randomizer has chosen characters from the criteria catergories the user selected, it writes the password to the input space on the page so it can be copied and pasted elsewhere
 ## Link to Deployed Application
+Link to deployed application:  https://bsidemyself.github.io/sshackleton_week3_challenge/
+Link to GitHub repository:  https://github.com/bsidemyself/sshackleton_week3_challenge
 ## References and Tutorials
 I used these links for general help with forming the generate password function itself:
 * https://dev.to/code_mystery/random-password-generator-using-javascript-6a
